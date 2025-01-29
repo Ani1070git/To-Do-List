@@ -17,7 +17,9 @@ The To-Do List App is a simple yet powerful task manager built using HTML, CSS, 
 
 # 🛠️ Technologies Used
 HTML – Structure of the app
+
 CSS – Styling with a modern gradient UI
+
 JavaScript – Logic for task management and local storage handling
 
 # 🔗 Live Demo
