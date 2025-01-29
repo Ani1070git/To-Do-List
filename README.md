@@ -1,5 +1,6 @@
 # To-Do-List
-A simple and user-friendly to-do list application built using HTML, CSS, and JavaScript. This project allows users to manage their tasks efficiently by adding, marking as complete, and deleting tasks in an intuitive interface.
+📜 Project Description
+The To-Do List App is a simple yet powerful task manager built using HTML, CSS, and JavaScript. It allows users to add, mark, delete, and persist tasks using local storage, ensuring that tasks remain saved even after a page refresh.
 
 # Features
 Add Tasks: Easily input and add new tasks to the list.
