@@ -29,7 +29,7 @@ JavaScript – Logic for task management and local storage handling
 
 3.Edit Tasks – Allow users to edit tasks instead of deleting and re-adding them.
 
-4. Sync with Cloud Storage – Save tasks to a database like Firebase or use APIs for syncing across devices.
+4.Sync with Cloud Storage – Save tasks to a database like Firebase or use APIs for syncing across devices.
 
 # 🔗 Live Demo
 Click here to see the live demo of the project : [here](https://ani1070git.github.io/To-Do-List/)
