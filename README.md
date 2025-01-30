@@ -22,5 +22,14 @@ CSS – Styling with a modern gradient UI
 
 JavaScript – Logic for task management and local storage handling
 
+# 💡Future Enhancements
+1.Due Dates & Reminders – Allow users to set deadlines and get notifications for tasks.
+
+2.Progress Tracker – Show task completion percentage using a progress bar.
+
+3.Edit Tasks – Allow users to edit tasks instead of deleting and re-adding them.
+
+4. Sync with Cloud Storage – Save tasks to a database like Firebase or use APIs for syncing across devices.
+
 # 🔗 Live Demo
 Click here to see the live demo of the project : [here](https://ani1070git.github.io/To-Do-List/)
